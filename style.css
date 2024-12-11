@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    background-image: url(https://images.pexels.com/photos/2078266/pexels-photo-2078266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-size: 100% 100%; */
+    background-attachment: scroll;
+    /* width: 100%; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    overflow: scroll;
+}
+
+.nav1 {
+    /* background-color: aqua; */
+    width: 50%;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+.under {
+    /* background-color: aqua; */
+    text-align: center;
+    font-size: 60px;
+    color: whitesmoke;
+    margin-top: 100px;
+    /* display: inline-block; */
+}
+
+.construction {
+    /* background-color: aqua; */
+    text-align: center;
+    font-size: 60px;
+    color: whitesmoke;
+    margin-bottom: 40px;
+    /* display: inline-block; */
+}
+
+p {
+    color: whitesmoke;
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+
+    /* border: 1px solid whitesmoke; */
+    /* color: powderblue;
+    background-color: powderblue; */
+}
+
+.load75,
+td {
+    background-color: powderblue;
+    color: powderblue;
+    font-size: 8px;
+}
+
+.load25,
+th {
+    background-color: whitesmoke;
+    color: whitesmoke;
+    font-size: 8px;
+}
+
+.mix {
+    display: flex;
+}
+
+.zero {
+    /* background-color: rgb(43, 196, 23); */
+    width: 50%;
+    color: whitesmoke;
+    text-indent: 66%;
+}
+
+.onehundred {
+    /* background-color: aqua; */
+    width: 50%;
+    color: whitesmoke;
+    text-indent: 27%;
+}
+
+.notify {
+    width: 100px;
+    text-align: center;
+    margin: auto;
+    background-color: powderblue;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.logo {
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    /* color: whitesmoke; */
+}
+
+footer {
+    /* background-color: aqua; */
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+img{
+    width: 20px;
+    height: 20px;
+    border: 3px solid whitesmoke;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 20px;
+    color: whitesmoke;
+}
+hr{
+    margin-top: 300px;
+    width: 80%;
+    height: 0.05px;
+    border-color: black;
+}
